@@ -68,7 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Team
-This project was developed by a team consist of 8 people, which the name mentioned below:
+This project was developed by a team consist of 8 people, <br />
+which the name mentioned below:
 1. Wisnu Agung Prasetyo
 2. Ferdian Septiawan
 3. Kukuh Pradipto
